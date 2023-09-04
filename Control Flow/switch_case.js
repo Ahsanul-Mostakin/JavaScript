@@ -15,5 +15,5 @@ let  role = 'guest';
 
 if(role === 'guest' ) console.log('Guest user');
 else if(role === 'moderator' ) console.log('Moderator user');
-else console.log('Unknow user');
+else console.log('Unknow user.');
 
